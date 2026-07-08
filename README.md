@@ -413,7 +413,7 @@ ConvNext-Quickdraw/
 
 ## 👥 Authors
 
-**Jai Parakh** · **Simran Kukreja**  
+**Simran Kukreja** · **Jai Parakh**
 MSc in Artificial Intelligence and Machine Learning - Sem 2 AY 25/26  
 *CS6482 Deep Reinforcement Learning - Assignment 1*
 
